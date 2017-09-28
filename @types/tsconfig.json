@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es6",                          
+    "module": "system",
+    "sourceMap": true,                   
+    "outFile": "dist/bundle.js",      
+    "rootDir": "src",   
+    "removeComments": true,
+    "strict": true,
+    "moduleResolution": "node"
+  }
+}
